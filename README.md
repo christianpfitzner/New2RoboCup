@@ -10,28 +10,28 @@ RoboCup is an international robotics competition with multiple leagues that focu
 ## Important links to the leagues
 
 ### Soccer
-- **Humanoid Soccer League**: https://www.robocup.org/leagues/35
-- **Middle Size League**: https://www.robocup.org/leagues/6
-- **Small Size League**: https://www.robocup.org/leagues/7
-- **Simulation League**: https://www.robocup.org/leagues/23
+- **Humanoid Soccer League** — Humanoid robots play soccer with a focus on perception, locomotion, and autonomous teamwork. https://www.robocup.org/leagues/35
+- **Middle Size League** — Mid-sized autonomous robots play soccer using realistic hardware and coordinated team behavior. https://www.robocup.org/leagues/6
+- **Small Size League** — Fast small robots play soccer with strong multi-robot strategy, often supported by global vision. https://www.robocup.org/leagues/7
+- **Simulation League** — Teams develop and test robot soccer AI in 2D/3D simulation without needing physical robots. https://www.robocup.org/leagues/23
 
 ### Rescue
-- **Rescue Robot League**: https://www.robocup.org/leagues/10
-- **Rescue Simulation League**: https://www.robocup.org/leagues/11
+- **Rescue Robot League** — Real robots solve search-and-rescue tasks in disaster-style arenas with obstacles and rough terrain. https://www.robocup.org/leagues/10
+- **Rescue Simulation League** — Disaster response scenarios are simulated to train coordination, planning, and decision-making skills. https://www.robocup.org/leagues/11
 
 ### RoboCup@Home
-- **Open Platform League**: https://www.robocup.org/leagues/14
-- **Domestic Standard Platform League**: https://www.robocup.org/leagues/34
-- **Social Standard Platform League**: https://www.robocup.org/leagues/15
+- **Open Platform League** — Home service robots use open hardware platforms to perform assistive tasks and human-robot interaction. https://www.robocup.org/leagues/14
+- **Domestic Standard Platform League** — Teams solve home tasks on a shared standard platform to compare approaches fairly. https://www.robocup.org/leagues/34
+- **Social Standard Platform League** — A standard platform is used for socially assistive behavior, communication, and interaction in home environments. https://www.robocup.org/leagues/15
 
 ### Industrial
-- **RoboCup@Work / Smart Manufacturing League**: https://www.robocup.org/leagues/36
+- **Smart Manufacturing League** — Industrial robotics challenges cover manipulation, logistics, and robust automation in factory-like settings. https://www.robocup.org/leagues/36
 
 ### RoboCupJunior
-- **RoboCupJunior (main)**: https://junior.robocup.org/
-  - **Junior Soccer**: https://junior.robocup.org/soccer/
-  - **Junior Rescue**: https://junior.robocup.org/rescue/
-  - **Junior OnStage**: https://junior.robocup.org/onstage/
+- **RoboCupJunior (main)** — The official youth-focused RoboCup track offers age-appropriate competitions and learning resources. https://junior.robocup.org/
+  - **Junior Soccer** — Youth robot soccer challenges introduce teamwork, strategy, and practical robotics skills. https://junior.robocup.org/soccer/
+  - **Junior Rescue** — Youth rescue challenges emphasize sensing, navigation, and problem-solving in structured courses. https://junior.robocup.org/rescue/
+  - **Junior OnStage** — Creative robotics performances combine engineering, storytelling, and presentation in team projects. https://junior.robocup.org/onstage/
 
 ---
 
